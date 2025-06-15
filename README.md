@@ -25,11 +25,7 @@ Monadport Control Tower is an innovative blockchain explorer that transforms the
 
 ## 🎮 Live Demo
 
-🔗 **[Visit Monadport Control Tower](https://monadport.vercel.app/)** *(Update with your deployment URL)*
-
-## 📸 Screenshots
-
-*Add screenshots of your application here*
+🔗 **[Visit Monadport Control Tower](https://monadport.vercel.app/)** 
 
 ## 🛠️ Tech Stack
 
